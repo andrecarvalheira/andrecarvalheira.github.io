@@ -1,0 +1,19 @@
+<nav class="nav">
+    <ul>
+        <li><a href="{{ site.url }}/">Home</a></li>
+        <li><a href="{{ site.url }}/blog">Blog</a></li>
+        {% if site.projects == true %}<li><a href="{{ site.url }}/projects">Projects</a></li>{% endif %}
+        <li><a href="{{ site.url }}/about">About</a></li>
+    </ul>
+</nav>
+
+{% if page.title == "Home" %}
+<nav class="home__header-nav">
+    <ul>
+        <li><a href="{{ site.url }}/">Home</a></li>
+        <li><a href="{{ site.url }}/blog">Blog</a></li>
+        {% if site.projects == true %}<li><a href="{{ site.url }}/projects">Projects</a></li>{% endif %}
+        <li><a href="{{ site.url }}/about">About</a></li>
+    </ul>
+</nav>
+{% endif %}
