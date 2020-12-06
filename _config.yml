@@ -1,8 +1,8 @@
 # Name of your site (displayed in the header)
-name: Hugo Ribeira
+name: André Carvalheira
 
 # Short bio or description (displayed in the header)
-bio: Full-time geek with a crush on full-stack dev and biz. Paragliding pilot.
+bio: Ser paneleiro.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 picture: assets/images/profile.png
@@ -18,16 +18,16 @@ projects: false
 # Flags below are optional
 #
 analytics: UA-42257282-3
-disqus: hugoribeira
-twitter: mytwitter
-linkedin: in/hugo-ribeira-53629545
-github: eidge
-twitter: eidgeare
-rss: http://www.hugoribeira.com/feed.xml
+# disqus: hugoribeira
+# twitter: mytwitter
+# linkedin: in/hugo-ribeira-53629545
+# github: eidge
+# twitter: eidgeare
+rss: http://www.carvalheira.blog/feed.xml
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.hugoribeira.com
+url: http://www.carvalheira.blog
 
 highlighter: rouge
 permalink: /:title/
