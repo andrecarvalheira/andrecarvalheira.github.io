@@ -17,12 +17,12 @@ projects: false
 #
 # Flags below are optional
 #
-analytics: UA-42257282-3
+# analytics: UA-42257282-3
 # disqus: hugoribeira
 # twitter: mytwitter
-# linkedin: in/hugo-ribeira-53629545
+ linkedin: in/acarvalheira
 # github: eidge
-# twitter: eidgeare
+ twitter: carvalheira1
 rss: http://www.carvalheira.blog/feed.xml
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
