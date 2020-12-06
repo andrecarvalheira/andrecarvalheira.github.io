@@ -5,7 +5,7 @@ name: André Carvalheira
 bio: Product Manager
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
- picture: assets/images/Andre Carvalheira.jpg
+picture: assets/images/Andre Carvalheira.jpg
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -17,12 +17,13 @@ projects: false
 #
 # Flags below are optional
 #
+analytics: G-6Z87PSFQNN
 # analytics: UA-42257282-3
 # disqus: hugoribeira
 # twitter: mytwitter
- linkedin: in/acarvalheira
+linkedin: in/acarvalheira
 # github: eidge
- twitter: carvalheira1
+twitter: carvalheira1
 rss: http://www.carvalheira.blog/feed.xml
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
