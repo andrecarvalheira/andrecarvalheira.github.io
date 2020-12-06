@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep Sharing Context
+title: Keep Sharing Context - How to Enable Better and Faster Product Decisions
 date: 2020-09-28
 tag: markdown
 blog: true
