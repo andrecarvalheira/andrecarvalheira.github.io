@@ -5,7 +5,7 @@ name: André Carvalheira
 bio: Product Manager
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
- picture: assets/images/Andre Carvalheira.jpg
+# picture: assets/images/profile.png
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
