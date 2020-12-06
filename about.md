@@ -4,8 +4,8 @@ layout: about
 permalink: /about/index.html
 ---
 
-Portuguese Product Manager based in London with over 5 years of experience building teams and global technology products.
+Head of Software at Nourish Care.
 
-I have a Masters in Biomedical Engineer and co-founded Findster at 23 to help pet owners keep their pets safe and healthy 24/7 (#33 on 2019 Deloitte Technology Fast 500 EMEA).
+Pet-project programmer on most nights and rainy weekends.
 
-Currently solving trust online at Onfido by building the new digital identity standard that gives companies like Revolut, Zipcar and Couchsurfing the assurance they need to onboard customers remotely and securely.
+Paragliding pilot the rest of the time.
