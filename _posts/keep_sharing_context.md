@@ -4,10 +4,10 @@ title: Keep Sharing Context
 date: 2020-09-28
 tag: markdown
 blog: true
-#star: true
+star: true
 ---
 
-#H1 Keep Sharing Context: How to Enable Better and Faster Product Decisions
+H1 Keep Sharing Context: How to Enable Better and Faster Product Decisions
 
 
 > “So, what do you think?” — says the Product Manager after a product strategy presentation to his team
@@ -16,12 +16,12 @@ blog: true
 
 This conversation may sound familiar to many Product Teams. In this story, I’ll explore why Product Managers should prioritize sharing context with their team, how to get started and what early impact signs look like.
 
-##H2 Taking a step back
+H2 Taking a step back
 Companies are born to solve problems that customers value to the point that they are willing to pay for them to be solved. In order to find and solve those customer problems faster, modern organizations evolved into a hybrid org. design where some functions remained centralized (sales, customer support, finance, legal, etc.) and product teams became cross-functional decentralized teams that are empowered to decide what to work on to fulfill their mission.
 
 This trend created the Product Manager role whose main job is to make sure the product team is working on the right thing. The job includes absorbing qualitative and quantitative inputs from customers, users, the market, the various centralized teams, the leadership team as well as other product teams, and then prioritize what to solve accordingly.
 
-##H2 Why should you care about sharing context?
+H2 Why should you care about sharing context?
 The role became sexy and created a perception kept alive by some Product Managers that “doing product” is not for everyone. The statement includes a pint of arrogance as it often implies that product intuition — accurately predicting what your customers need, want and value as well as design and ship the right solution for them — is something you are either born with or not.
 
 Product Intuition is a core skill of a Product Manager but as Paul Adams mentions in this great article, it is learned through direct experiences with customers. Some domain knowledge is transferable, but it is mostly domain-specific (rather than universal) so even if you’re an experienced product leader, talking with your customers remains your main source of insight if you start working in a new domain.
@@ -34,28 +34,28 @@ Most importantly, your team already makes daily product decisions, even if uncon
 
 Not sharing context is a possible path but will inevitably slow you down, which is the anti-goal of decentralized product teams. You will end up either constantly refactoring features or spending too long defining its scope.
 
-##H2 The Trap
+H2 The Trap
 Even if you agree with the importance of sharing context, it may not be as easy to apply in real life.
 
 Unless you make a conscious effort against it, you may end up being the single point of failure of your team and a bottleneck instead of an enabler by being the sole owner of context to make good decisions and unconsciously not setting your teams up for success by not providing or granting them easy access to that context.
 
 There are 3 main drivers for this to happen.
 
-###H3 You’re busy
+H3 You’re busy
 
 Your job is never done and as the product expert you come in handy in all sorts of conversations with customers or internal stakeholders but if you can’t find the point of diminishing returns and protect your time, you will end up filling your day with endless meetings and not take the time to enable your team. At the same time, your team may not understand the value of context upfront which coupled with the fact that you’re busy may lead you to decide it is not worth your time. 
 
-###H3  You will lose power and control
+H3  You will lose power and control
 
 It feels good to be needed, to have our opinion valued and to “know better”. It feels less good if that costs your product success or if you need to work 24/7 to do it. You may be afraid of worse outcomes, losing track of what’s happening or even becoming redundant but having the authority to define what will be built doesn’t mean it is the most effective approach every time or that you don’t need some help.
 
-###H3 This is your job
+H3 This is your job
 
 At the end of the day, defining the team’s priorities is part of your job description and you may feel the need to emulate the know-it-all visionary product person, glorified by Steve Jobs stories, or think you’re not doing your job if the team is invited to challenge your thoughts. Although building a tech product requires conviction (and not always consensus), you should be able to articulate which customer, market, or technology insight supports your conviction and welcome your team to challenge it before the market and the customers do it.
 
 As Martin Cagan puts it ”if you’re just using your engineers to code, you’re only getting about half their value”.
 
-###H2 How to get started
+H2 How to get started
 The right balance between the time invested producing, sharing and consuming context and its benefits will vary based on the company size, target customers, team’s experience working together and so on but the most important is to get started.
 
 1. Share your decisions’ rationale
@@ -114,7 +114,7 @@ This may sound obvious but it’s key that the team has multiple examples of whe
 
 Keep asking your team what they’re missing or getting too much of — you also don’t want the context to be overwhelming or a source of anxiety.
 
-##H2 Early signs of impact
+H2 Early signs of impact
 Here are a few things you may start experiencing when you keep sharing context:
 
 1. You put more thought into your prioritization process as your team is now more likely to challenge it
