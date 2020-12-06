@@ -7,6 +7,4 @@ blog: true
 #star: true
 ---
 
-# Hello world
-
-Eu sou **paneleiro**.
+test
