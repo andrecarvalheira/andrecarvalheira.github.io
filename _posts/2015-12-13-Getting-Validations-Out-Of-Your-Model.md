@@ -8,5 +8,3 @@ blog: true
 ---
 
 # Hello world
-
-Eu sou **paneleiro**.
